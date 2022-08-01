@@ -54,5 +54,6 @@ mutation removeBook($bookId: String) {
         image
         link
     }
+  }  
 }
 `;
